@@ -1,4 +1,4 @@
-# Hi, I'm pie111 👋
+# Hi, I'm Pranav 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pie111&color=brightgreen)
 
