@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm pie111 👋
 
-<!--
-**pie111/pie111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=pie111&color=brightgreen)
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 I’m currently learning about building AI-native applications
+- 💬 Ask me about Python, JavaScript, FastAPI, Express, React, Docker, Kubernetes, Langchain, LangGraph, TensorFlow, PostgreSQL, Redis
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pranavnssce/),[Email](pranavks1234@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 🛠 Languages: Python,Javascript
+- 💻 Frameworks: FastAPI,Express,React
+- 🌐 Technologies: Docker,K8,Langchain,LangGraph,TensorFlow,Kafka
+- 🗄️ Databases: PostgreSQL, Redis
+
+## Projects
+### Jarvis
+Jarvis is an AI agent that integrates with various MCP servers for accomplishing tasks
+. [Link to project](https://github.com/pie111/jarvis)
+
+### PG Query Composer
+PG Query Composer is a tool for building and executing complex PostgreSQL queries with an intuitive interface, simplifying database management and querying. [Link to project](https://github.com/pie111/pg-query-composer)
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pie111&show_icons=true&hide_border=true)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pie111&layout=compact&hide_border=true)
