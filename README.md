@@ -11,7 +11,7 @@
 - 🛠 Languages: Python,Javascript
 - 💻 Frameworks: FastAPI,Express,React
 - 🌐 Technologies: Docker,K8,Langchain,LangGraph,TensorFlow,Kafka
-- 🗄️ Databases: PostgreSQL, Redis
+- 🗄️ Databases: PostgreSQL, Redis ,Milvus
 
 ## Projects
 ### Jarvis
